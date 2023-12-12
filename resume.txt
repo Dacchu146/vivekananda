@@ -1,0 +1,24 @@
+name:vivekananda
+genger:male
+dob:7/6/2003
+email id:vivek@gmail.com
+
+
+qualification:
+.sslc(78%)
+.diploma in cse (8cgpa)
+
+
+hobbies:
+.cricket
+.watching movies
+
+
+technologies:
+.java
+.python
+
+
+intership:
+.vv techno(python developer)
+   20220-23
